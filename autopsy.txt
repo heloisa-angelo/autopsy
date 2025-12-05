@@ -1,0 +1,6 @@
+Autopsy é uma poderosa ferramenta de análise forense digital, gratuita e de código aberto, que vem pré-instalada no Kali Linux, acessível via navegador (geralmente http://localhost:9999/autopsy), usada para investigar imagens de disco, recuperar arquivos deletados, analisar artefatos web e gerenciar casos, oferecendo uma interface gráfica para as ferramentas do The Sleuth Kit e gerando relatórios detalhados para investigações de segurança e cibercrime. 
+Como Acessar e Usar no Kali Linux:
+Iniciar: Abra um terminal no Kali Linux e digite sudo autopsy, como mostrado em Ethical Hacker e Total Seminars.
+Navegador: O terminal exibirá um endereço (ex: http://localhost:9999/autopsy) para acessar a interface web, conforme descrito em Hacking Articles e GeeksforGeeks.
+Criar Caso: Crie um novo caso, insira detalhes do investigador e do sistema, e adicione a imagem de disco (arquivo .dd, .e01, etc.) que será analisada, como exemplificado em www.kalilinux.in e douglasmendes.code.blog.
+Análise: Use a interface para buscar palavras-chave, analisar a linha do tempo, explorar artefatos de navegação e recuperar arquivos deletados, aproveitando o poder do The Sleuth Kit (TSK). 
